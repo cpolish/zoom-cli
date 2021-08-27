@@ -6,5 +6,5 @@ A really simple zsh function that lets you open Zoom and join meetings by a spec
   
 **Available commands**:  
   join - join a Zoom meeting with a specified meeting ID  
-  open - open the zoom app"  
+  open - open the zoom app  
   -h, --help, help - display this help menu  
