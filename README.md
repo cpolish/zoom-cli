@@ -1,5 +1,5 @@
-# zoom-cli-func
-A really simple zsh function that lets you open Zoom and join meetings by a specified meeting ID. Will probably be updated with more stuff later. Feel free to add your own things!
+# zoom-cli
+A really simple shell that lets you open Zoom and join meetings by a specified meeting ID. Will probably be updated with more stuff later. Feel free to add your own things!
   
 **Usage**:  
   zoom [command] \<arguments\>  
